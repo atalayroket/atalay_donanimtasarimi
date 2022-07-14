@@ -11,7 +11,7 @@
 - Voltaj regülatörü olarak LD29150 kullanılmıştır.
 - Sensör BME280 VE ADXL345, gps modülü olarak NEO-6M, haberleşme için Lora modülü kullanılmıştır. 
 - Ateşleme devresi için IRF530 mosfet ile PC817 optoptokuplör kullanılmıştır.
-- Kart üzerinde emeği geçen [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/), [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) arkadaşlarımıza ulaşabilirsiniz.
+- Kart üzerinde emeği geçen [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/), [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) arkadaşlarımızdan bilgi alabilirsiniz.
 
 </details>
 
