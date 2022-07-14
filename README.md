@@ -22,3 +22,9 @@
 ##
 ***Kompenentlerin şematik ve pcb kütüphanelerini bu alanda uğraşmak isteyen arkadaşlara yol göstermesi amacıyla paylaşıyoruz. Dosya içerisinde bu sene yapılan pcb kartlarımızda kullandığımız kompenentlerin dosylarına da ulaşabilir ayrıca paylaşım içerisinde step ve datasheet dosyalarını da bulabilirsiniz.*** 
 ##
+
+<br>
+
+###### Altium ile PCB Çizimi (Temel Seviye)
+
+- Karabük Üniversitesi öğrencilerine yönelik KARABÜK TEKNOLOJİ VE İNOVASYON DERNEĞİ üzerinden 2022 yılı 21-22 Mayıs tarihlerinde ücretsiz olarak temel seviye pcb eğitimi verilmiştir.  
