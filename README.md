@@ -11,7 +11,7 @@
 - Voltaj regülatörü olarak LD29150 kullanılmıştır.
 - Sensör BME280 VE ADXL345, gps modülü olarak NEO-6M, haberleşme için E32-433T30D SX1278 LORA modülü kullanılmıştır. 
 - Ateşleme devresi için IRF530 mosfet ile PC817 optoptokuplör kullanılmıştır.
-- Kart hakkında sorunuz için kart üzerinde emeği geçen [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/) ile  [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) arkadaşlarımızdan bilgi alabilirsiniz.
+- Kart hakkında sorunuz için kart üzerinde emeği geçen [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/), [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/), [Eren Zirkebilek](https://www.linkedin.com/in/eren-zirekbilek-225262199/) ve arkadaşlarımızdan bilgi alabilirsiniz.
 
 </details>
 
@@ -20,11 +20,24 @@
 | <img src="https://user-images.githubusercontent.com/104703949/178975949-c73ea188-78ee-422f-ae1e-443e428f9f21.JPG" width="350"> | <img src="https://user-images.githubusercontent.com/104703949/178975971-cedd0c6c-6338-451e-ba90-f94a9db79941.JPG" width="350"> | <img src="https://user-images.githubusercontent.com/104703949/178975987-bcb0d98b-03aa-4c32-86b0-55a938d579de.JPG" width="320"> | <img src="https://user-images.githubusercontent.com/104703949/178976015-2aa9b74b-eeaf-49ca-b19e-2ab924a77f52.JPG" width="350">|
 
 ##
-***Kompenentlerin şematik ve pcb kütüphanelerini bu alanda uğraşmak isteyen arkadaşlara yol göstermesi amacıyla paylaşıyoruz. Dosya içerisinde bu sene yapılan pcb kartlarımızda kullandığımız kompenentlerin dosylarına da ulaşabilir ayrıca paylaşım içerisinde step ve datasheet dosyalarını da bulabilirsiniz.*** 
+***Kompenentlerin şematik ve pcb kütüphanelerini bu alanda uğraşmak isteyen arkadaşlara yol göstermesi amacıyla paylaşıyoruz. Dosya içerisinde bu sene yapılan pcb kartlarımızda kullandığımız kompenentlerin dosylarına da ulaşabilir ayrıca paylaşım içerisinde step ve datasheet dosyalarını da bulabilirsiniz.***
 ##
 
-<br>
+<br><br>
 
-###### Altium ile PCB Çizimi (Temel Seviye)
+> **Altium ile PCB Çizimi (Temel Seviye)**
 
-- Karabük Üniversitesi öğrencilerine yönelik KARABÜK TEKNOLOJİ VE İNOVASYON DERNEĞİ üzerinden 2022 yılı 21-22 Mayıs tarihlerinde ücretsiz olarak temel seviye pcb eğitimi verilmiştir.  
+Karabük Üniversitesi öğrencilerine yönelik KARABÜK TEKNOLOJİ VE İNOVASYON DERNEĞİ üzerinden [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/) ile  [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) tarafından 21-22 Mayıs tarihlerinde ücretsiz olarak iki gün boyunca temel seviye pcb eğitimi verilmiştir.
+
+<details>
+  <summary>Eğitim İçeriği</summary>
+    
+ 1. Programın Kurulması
+ 2. Kütüphane Oluşturma
+ 3. Şematik Tasarım
+ 4. PCB Tasarımı
+ 5. Üretim Dosyalarını Oluşturma
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/104703949/179001049-e6143cc4-1adf-43d6-bf73-fedd0bf1aa4b.png">
