@@ -6,7 +6,7 @@
 
 <details>
   
-- Karltarın arka yüzünde STM32F103RB işlemci olup olup ön yüzünde ise kullanacağımız sensörler, gps, haberleşme, ateşleme devresi ve voltaj regülatörü bulunuyor. 
+- Kartların arka yüzünde STM32F103RB işlemci olup olup ön yüzünde ise kullanacağımız sensörler, gps, haberleşme, ateşleme devresi ve voltaj regülatörü bulunuyor. 
 - Kartımız 7-12V ile beslenmekte ve üzerinde güç ledi bulunmaktadır. 
 - Voltaj regülatörü olarak LD29150 kullanılmıştır.
 - Sensör BME280 VE ADXL345, gps modülü olarak NEO-6M, haberleşme için E32-433T30D SX1278 LORA modülü kullanılmıştır. 
