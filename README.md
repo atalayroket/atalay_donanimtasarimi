@@ -5,12 +5,12 @@
 > **Teknofest Roket Yarışması 2022 Orta İrtifa**
 
 <details>
-  <summary>Emektarlar</summary>
   
-- [Cengizhan Topçu](https://muh.karabuk.edu.tr/mekatronik)
-- [Ferdi Ayhan](https://muh.karabuk.edu.tr/mekatronik)
-- [Eren Zirekbilek](https://www.linkedin.com/in/eren-zirekbilek-225262199/)
-- [Ferdi Ayhan](https://www.linkedin.com/in/cihat-arslan-2534c/)
+- Karltarın arka yüzünde NUCLEO-STM32F103RB işlemci olup olup ön yüzünde ise kullanacağımız sensörler, haberleşme, ateşleme devresi, voltaj regülatörleri vs. elemanlar bulunuyor. 
+- Kartımız 7-12V ile beslenmekte ve üzerinde güç ledi bulunmaktadır.
+  <br>
+  
+Kart üzerinde emeği geçen arkadaşlarımız [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/), [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/), [Eren Zirekbilek](https://www.linkedin.com/in/eren-zirekbilek-225262199/), [Cihat Arslan](https://www.linkedin.com/in/cihat-arslan-2534c/)
 
 
 </details>
