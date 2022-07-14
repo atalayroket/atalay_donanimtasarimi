@@ -8,10 +8,10 @@
   
 - Karltarın arka yüzünde STM32F103RB işlemci olup olup ön yüzünde ise kullanacağımız sensörler, gps, haberleşme, ateşleme devresi ve voltaj regülatörü bulunuyor. 
 - Kartımız 7-12V ile beslenmekte ve üzerinde güç ledi bulunmaktadır. 
+- Voltaj regülatörü olarak LD29150 kullanılmıştır.
 - Sensör BME280 VE ADXL345, gps modülü olarak NEO-6M, haberleşme için Lora modülü kullanılmıştır. 
-- Voltaj regülatörü olarak LD29150 kullanılmıştır. 
 - Ateşleme devresi için IRF530 mosfet ile PC817 optoptokuplör kullanılmıştır.
-- Kart üzerinde emeği geçen arkadaşlarımıza [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/), [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/), [Eren Zirekbilek](https://www.linkedin.com/in/eren-zirekbilek-225262199/), [Cihat Arslan](https://www.linkedin.com/in/cihat-arslan-2534c/) ulaşabilirsiniz.
+- Kart üzerinde emeği geçen [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/), [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/), [Eren Zirekbilek](https://www.linkedin.com/in/eren-zirekbilek-225262199/), [Cihat Arslan](https://www.linkedin.com/in/cihat-arslan-2534c/) arkadaşlarımıza ulaşabilirsiniz.
 
 </details>
 
