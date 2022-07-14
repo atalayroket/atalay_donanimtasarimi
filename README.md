@@ -2,7 +2,7 @@
 
 https://linktr.ee/atalayroket
 
-TEKNOFEST Roket Y
+Teknofest Roket Yarışması 2022 Orta İrtifa
 
 | Ana Sistem | Yedek Sistem | Haberleşme | Görev Yükü |
 | ------------ | ------------- | ------------- | ------------- |
