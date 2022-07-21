@@ -8,9 +8,9 @@
   
 - Kartların arka yüzünde STM32F103RB işlemci olup olup ön yüzünde ise kullanacağımız sensörler, gps, haberleşme, ateşleme devresi ve voltaj regülatörü bulunuyor. 
 - Kartımız 7-12V ile beslenmekte ve üzerinde güç ledi bulunmaktadır. 
-- Voltaj regülatörü olarak LD29150 kullanılmıştır.
-- Sensör için BME280 basınç sensörü ile ADXL345 ivme sensörü, gps modülü olarak NEO-6M, haberleşme için E32-433T30D SX1278 LORA modülü kullanılmıştır. 
-- Ateşleme devresi için IRF530 mosfet ile PC817 optoptokuplör kullanılmıştır.
+- Voltaj regülatörü 3.3V çıkış vermektedir.
+- Ateşleme devresi için mosfet ile optoptokuplör kullanılmıştır.
+- Sensör için BME280 basınç sensörü ile ADXL345 ivme sensörü, gps modülü olarak NEO-6M, haberleşme için LORA modülü kullanılmıştır. 
 - Kart hakkında sorunuz için kart üzerinde emeği geçen [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/) ile [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) arkadaşlarımızdan bilgi alabilirsiniz.
 
 </details>
