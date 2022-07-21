@@ -40,4 +40,4 @@ Karabük Üniversitesi öğrencilerine yönelik KARABÜK TEKNOLOJİ VE İNOVASYO
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/104703949/179010652-d9462384-77af-4a46-b030-e92bf0aeffed.png">
+<img src="https://user-images.githubusercontent.com/104703949/180171973-0adf0bc6-bcd4-4074-b656-5cc029cb3bbe.png">
