@@ -27,7 +27,7 @@
 
 > **Altium ile PCB Çizimi (Temel Seviye)**
 
-Karabük Üniversitesi öğrencilerine yönelik KARABÜK TEKNOLOJİ VE İNOVASYON DERNEĞİ üzerinden takım arkadaşlarımız [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/) ile  [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) tarafından 21-22 Mayıs tarihlerinde ücretsiz olarak iki gün boyunca temel seviye pcb eğitimi verilmiştir.
+Karabük Üniversitesi öğrencilerine yönelik [Karabük Teknoloji VE İnovasyon Derneği](https://www.instagram.com/kartekinder/) üzerinden takım arkadaşlarımız [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/) ile  [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) tarafından 21-22 Mayıs tarihlerinde ücretsiz olarak iki gün boyunca temel seviye pcb eğitimi verilmiştir.
 
 <details>
   <summary>Eğitim İçeriği</summary>
