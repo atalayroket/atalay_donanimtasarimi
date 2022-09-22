@@ -32,11 +32,11 @@ Karabük Üniversitesi öğrencilerine yönelik [Karabük Teknoloji ve İnovasyo
 <details>
   <summary>Eğitim İçeriği</summary>
     
- 1. Programın Kurulması
- 2. Kütüphane Oluşturma
- 3. Şematik Tasarım
- 4. PCB Tasarımı
- 5. Üretim Dosyalarını Oluşturma
+ 1.Programın Kurulması
+ 2.Kütüphane Oluşturma
+ 3.Şematik Tasarım
+ 4.PCB Tasarımı
+ 5.Üretim Dosyalarını Oluşturma
 
 </details>
 
