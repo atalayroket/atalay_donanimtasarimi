@@ -4,7 +4,7 @@
 
 > **Teknofest Roket Yarışması 2022**
 
-Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır. Kart çizimi yapılırken Altium programı üzerinden tüm ürün gruplarında elektronik komponentlerin bulunduğu şematik ve pcb kütüphanesi oluşturulmuştur. Kartlar yurt dışında üretilip, dizgisi kendi takım atölyemizde yapılmıştır.
+Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır. Kart çizimi yapılırken Altium programı üzerinden tüm ürün gruplarında elektronik komponentlerin bulunduğu şematik ve pcb kütüphanesi oluşturulmuştur. Kartlar yurt dışında üretilip, dizgisi kendi takım atölyemizde yapılmıştır. Ayrıca kendi roket motoru ile yapılan uçuş denemelerinde kullanılmaktadır. 
 
 <details>
 <summary>Özellikleri</summary>
