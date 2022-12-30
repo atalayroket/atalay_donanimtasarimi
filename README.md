@@ -12,8 +12,9 @@ Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır
 - Kartların arka yüzünde STM32F103RB işlemci olup olup ön yüzünde ise kullanacağımız sensörler, gps, haberleşme, ateşleme devresi ve voltaj regülatörü bulunuyor. 
 - Kartımız 7-12V ile beslenmekte ve üzerinde güç ledi bulunmaktadır. 
 - Voltaj regülatörü 3.3V çıkış vermektedir.
-- Ateşleme devresi için mosfet ile optoptokuplör kullanılmıştır.
+- Ateşleme devresi için mosfet ile optoptokuplör kullanılmıştır. 
 - Sensör için BME280 basınç sensörü ile ADXL345 ivme sensörü, gps modülü olarak NEO-6M, haberleşme için LORA modülü kullanılmıştır. 
+- Ana Sistem ve Yedek Sistem kartındaki verileri SPI haberleşmesi ile Haberleşme kartına aktarıyoruz.
 </details>
 
 | Ana Sistem | Yedek Sistem | Haberleşme | Görev Yükü |
