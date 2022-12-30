@@ -6,6 +6,7 @@
 
 <details>
 <summary>Özellikleri</summary>
+ 
 - Kartların arka yüzünde STM32F103RB işlemci olup olup ön yüzünde ise kullanacağımız sensörler, gps, haberleşme, ateşleme devresi ve voltaj regülatörü bulunuyor. 
 - Kartımız 7-12V ile beslenmekte ve üzerinde güç ledi bulunmaktadır. 
 - Voltaj regülatörü 3.3V çıkış vermektedir.
@@ -26,11 +27,12 @@ Karabük Üniversitesi öğrencilerine yönelik [Karabük Teknoloji ve İnovasyo
 
 <details>
  <summary>Eğitim İçeriği</summary>
-  1. Programın Kurulması
-  2. Kütüphane Oluşturma
-  3. Şematik Tasarım
-  4. PCB Tasarımı
-  5. Üretim Dosyalarını Oluşturma
+ 
+   1. Programın Kurulması
+   2. Kütüphane Oluşturma
+   3. Şematik Tasarım
+   4. PCB Tasarımı
+   5. Üretim Dosyalarını Oluşturma
 </details>
 
 <img src="https://user-images.githubusercontent.com/104703949/180171973-0adf0bc6-bcd4-4074-b656-5cc029cb3bbe.png">
