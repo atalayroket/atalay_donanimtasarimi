@@ -14,6 +14,7 @@ Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır
 - Voltaj regülatörü 3.3V çıkış vermektedir.
 - Ateşleme devresi için mosfet ile optoptokuplör kullanılmıştır.
 - Sensör için BME280 basınç sensörü ile ADXL345 ivme sensörü, gps modülü olarak NEO-6M, haberleşme için LORA modülü kullanılmıştır. 
+</details>
 
 | Ana Sistem | Yedek Sistem | Haberleşme | Görev Yükü |
 | ------------ | ------------- | ------------- | ------------- |
@@ -22,7 +23,7 @@ Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır
 <br>
 
 > **Altium ile PCB Çizimi**
-
+ 
 Karabük Üniversitesi öğrencilerine yönelik [Karabük Teknoloji ve İnovasyon Derneği](https://www.instagram.com/kartekinder/) üzerinden takım arkadaşlarımız [Cengizhan Topçu](https://www.linkedin.com/in/cengizhantopcu53/) ile  [Ferdi Ayhan](https://www.linkedin.com/in/ferdiayhann/) tarafından 21-22 Mayıs tarihlerinde ücretsiz olarak iki gün boyunca temel seviye pcb eğitimi verilmiştir.
 
 <details>
