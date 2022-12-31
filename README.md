@@ -4,7 +4,7 @@
 
 > **Teknofest Roket Yarışması**
 
-Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır. Kart çizimi yapılırken Altium programı üzerinden tüm ürün gruplarında elektronik komponentlerin bulunduğu şematik ve pcb kütüphanesi oluşturulmuştur. Kartlar yurt dışında üretilip, dizgisi kendi takım atölyemizde yapılmıştır.
+Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır. Kart çizimi yapılırken Altium programı üzerinden tüm ürün gruplarında elektronik komponentlerin bulunduğu şematik ve pcb [kütüphanesi](https://github.com/atalayroket/atalay_karttasarimi/tree/main/Atalay_KartTasarimi_Library) oluşturulmuştur. Kartlar yurt dışında üretilip, dizgisi kendi takım atölyemizde yapılmıştır.
 
 <details>
 <summary>Özellikleri</summary>
