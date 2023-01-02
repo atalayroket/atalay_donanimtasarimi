@@ -19,7 +19,7 @@
 - Otomatik apogee tespi algoritması bulunmaktadır.
 </details>
 
-Teknofest Roket Yarışması Yüksek İrtifa Kategorisi için hazırlanılmıştır. Ayrıca takımımızın kendi imkanlarıyla ürettiği roket motoru ile uçurulan [İspat 01](https://www.instagram.com/p/CeEz-f6FkrU/) ve [İspat 02](https://www.instagram.com/p/CmLr6XANZut/) roketlerimizin aviyonik sistemi olarak kullanılmış ve başarılı bir şekilde paraşütlerini açarak roketlerimizi sağlam şekilde yere indirmiştir. 
+Teknofest Roket Yarışması Yüksek İrtifa Kategorisi için hazırlanılmıştır. Ayrıca takımımızın kendi imkanlarıyla ürettiği roket motoru ile uçurulan [İspat 01](https://www.instagram.com/p/CeEz-f6FkrU/) ve [İspat 02](https://www.instagram.com/p/CmLr6XANZut/) roketlerimizin aviyonik sistemi olarak kullanılmış ve başarılı bir şekilde roketin paraşütlerini açarak roketlerimizi sağlam şekilde yere indirmiştir. 
 
 <br>
 
