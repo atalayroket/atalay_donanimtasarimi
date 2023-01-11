@@ -1,4 +1,4 @@
-# atalay_donanimtasarimi
+# Donanım Tasarımı
 
 <br>
 
