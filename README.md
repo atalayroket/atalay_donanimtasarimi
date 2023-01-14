@@ -1,7 +1,7 @@
 # Donanım Tasarımı
 
 ##
-***Bu alanda çalışan arkadaşlara yardımcı olması adına tüm ürün gruplarında elektronik komponentlerin symbol ve footprintlerin veritabanında tutulduğu kütüphaneyi yukardan indirip altium programında yükleyip pcb projelerinizde kullanabilirsiniz. Ayrıca kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
+***Bu alanda çalışan arkadaşlara yardımcı olması adına tüm ürün gruplarında elektronik komponentlerin symbol ve footprintlerin veritabanında tutulduğu kütüphaneyi yukardan indirip altium programında yükleyip pcb projelerinizde kullanabilirsiniz. Kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
 ##
 
 <br>
